@@ -1,0 +1,557 @@
+Last metadata expiration check: 0:00:20 ago on Tue Oct 15 20:49:12 2024.
+Error: 
+ Problem: conflicting requests
+  - package mongodb-org-5.0.0-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.1-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.10-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.11-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.12-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.13-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.14-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.15-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.16-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.17-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.18-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.19-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.2-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.20-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.21-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.22-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.23-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.24-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.25-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.26-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.27-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.28-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.29-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.3-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.4-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.5-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.6-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.7-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.8-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-5.0.9-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.0-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.1-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.10-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.11-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.12-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.13-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.14-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.15-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.16-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.17-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.18-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.2-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.3-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.4-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.5-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.6-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.7-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.8-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-6.0.9-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-database, but none of the providers can be installed
+  - package mongodb-org-database-6.0.0-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.1-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.10-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.11-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.12-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.13-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.14-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.15-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.16-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.17-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.18-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.2-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.3-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.4-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.5-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.6-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.7-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.8-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-6.0.9-1.amzn2.x86_64 from mongodb-org-6.0 requires mongodb-org-server, but none of the providers can be installed
+  - package mongodb-org-database-5.0.0-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.1-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.10-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.11-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.12-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.13-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.14-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.15-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.16-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.17-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.18-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.19-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.2-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.20-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.21-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.22-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.23-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.24-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.25-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.26-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.27-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.28-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.29-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.3-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.4-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.5-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.6-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.7-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.8-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - package mongodb-org-database-5.0.9-1.el7.x86_64 from mongodb-org-5.0 requires mongodb-org-shell, but none of the providers can be installed
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-server-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-server-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.0-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.1-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.10-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.11-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.12-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.13-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.14-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.15-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.16-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.17-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.18-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.19-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.2-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.20-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.21-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.22-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.23-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.24-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.25-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.26-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.27-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.28-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.29-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.3-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.4-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.5-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.6-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.7-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.8-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-shell-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1)(64bit) needed by mongodb-org-shell-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.1_EC)(64bit) needed by mongodb-org-shell-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-shell-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-shell-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-shell-5.0.9-1.el7.x86_64 from mongodb-org-5.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.0-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.0-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.0-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.0-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.0-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.1-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.1-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.1-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.1-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.1-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.10-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.10-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.10-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.10-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.10-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.11-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.11-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.11-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.11-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.11-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.12-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.12-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.12-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.12-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.12-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.13-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.13-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.13-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.13-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.13-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.14-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.14-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.14-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.14-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.14-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.15-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.15-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.15-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.15-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.15-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.16-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.16-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.16-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.16-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.16-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.17-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.17-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.17-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.17-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.17-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.18-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.18-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.18-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.18-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.18-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.2-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.2-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.2-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.2-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.2-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.3-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.3-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.3-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.3-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.3-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.4-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.4-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.4-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.4-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.4-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.5-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.5-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.5-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.5-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.5-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.6-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.6-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.6-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.6-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.6-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.7-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.7-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.7-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.7-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.7-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.8-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.8-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.8-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.8-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.8-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10()(64bit) needed by mongodb-org-server-6.0.9-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(libcrypto.so.10)(64bit) needed by mongodb-org-server-6.0.9-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10()(64bit) needed by mongodb-org-server-6.0.9-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libssl.so.10(libssl.so.10)(64bit) needed by mongodb-org-server-6.0.9-1.amzn2.x86_64 from mongodb-org-6.0
+  - nothing provides libcrypto.so.10(OPENSSL_1.0.2)(64bit) needed by mongodb-org-server-6.0.9-1.amzn2.x86_64 from mongodb-org-6.0
+(try to add '--skip-broken' to skip uninstallable packages)
